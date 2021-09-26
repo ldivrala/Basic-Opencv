@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 2.8)
+set(CMAKE_C_COMPILER "/bin/gcc")
+set(CMAKE_CXX_COMPILER "/bin/c++")
+project( Filter2D )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( Filter2D Filter2D.cpp )
+target_link_libraries( Filter2D ${OpenCV_LIBS} )

@@ -1,0 +1,3 @@
+/home/lokendra/c++/c++_opencv/day4/makeBorder/CMakeFiles/rebuild_cache.dir
+/home/lokendra/c++/c++_opencv/day4/makeBorder/CMakeFiles/edit_cache.dir
+/home/lokendra/c++/c++_opencv/day4/makeBorder/CMakeFiles/MakeBorder.dir

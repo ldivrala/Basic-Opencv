@@ -1,0 +1,3 @@
+/home/lokendra/c++/c++_opencv/day6/bounding_rect_circle/CMakeFiles/rebuild_cache.dir
+/home/lokendra/c++/c++_opencv/day6/bounding_rect_circle/CMakeFiles/edit_cache.dir
+/home/lokendra/c++/c++_opencv/day6/bounding_rect_circle/CMakeFiles/Bounding.dir

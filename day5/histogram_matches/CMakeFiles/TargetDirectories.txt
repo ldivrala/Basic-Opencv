@@ -1,0 +1,3 @@
+/home/lokendra/c++/c++_opencv/day5/histogram_matches/CMakeFiles/rebuild_cache.dir
+/home/lokendra/c++/c++_opencv/day5/histogram_matches/CMakeFiles/edit_cache.dir
+/home/lokendra/c++/c++_opencv/day5/histogram_matches/CMakeFiles/HistrogramMatches.dir

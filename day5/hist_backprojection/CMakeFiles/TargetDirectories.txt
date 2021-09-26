@@ -1,0 +1,3 @@
+/home/lokendra/c++/c++_opencv/day5/hist_backprojection/CMakeFiles/rebuild_cache.dir
+/home/lokendra/c++/c++_opencv/day5/hist_backprojection/CMakeFiles/edit_cache.dir
+/home/lokendra/c++/c++_opencv/day5/hist_backprojection/CMakeFiles/Backprojection.dir

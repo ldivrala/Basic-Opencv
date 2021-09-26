@@ -1,0 +1,3 @@
+/home/lokendra/c++/c++_opencv/day2/image1/CMakeFiles/rebuild_cache.dir
+/home/lokendra/c++/c++_opencv/day2/image1/CMakeFiles/edit_cache.dir
+/home/lokendra/c++/c++_opencv/day2/image1/CMakeFiles/Image1.dir

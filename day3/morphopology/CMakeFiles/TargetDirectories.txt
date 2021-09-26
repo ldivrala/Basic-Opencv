@@ -1,0 +1,3 @@
+/home/lokendra/c++/c++_opencv/day3/morphopology/CMakeFiles/rebuild_cache.dir
+/home/lokendra/c++/c++_opencv/day3/morphopology/CMakeFiles/edit_cache.dir
+/home/lokendra/c++/c++_opencv/day3/morphopology/CMakeFiles/Morpho.dir

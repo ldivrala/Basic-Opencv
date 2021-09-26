@@ -1,0 +1,3 @@
+/home/lokendra/c++/c++_opencv/day3/drawing/CMakeFiles/edit_cache.dir
+/home/lokendra/c++/c++_opencv/day3/drawing/CMakeFiles/rebuild_cache.dir
+/home/lokendra/c++/c++_opencv/day3/drawing/CMakeFiles/Drawing.dir
